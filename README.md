@@ -9,7 +9,7 @@
 <p align="center">Ho Chi Minh City, Viet Nam</p>
 <p align="center">
   📧 thanhhoanphandinh@gmail.com | 
-  🌐 <a href="https://phan-dinh-thanh-hoan.com">phan-dinh-thanh-hoan.com</a> | 
+  🌐 <a href="https://phan-dinh-thanh-hoan.com">Porfolio</a> | 
   💼 <a href="https://linkedin.com/in/phan-dinh-thanh-hoan">LinkedIn</a>
 </p>
 
