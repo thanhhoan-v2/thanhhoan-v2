@@ -83,10 +83,9 @@ _Oct 2023 – Jan 2024_
 
 ## 🏆 AWARDS AND CERTIFICATIONS
 
-- **IELTS 6.5 | SAT 1100**
+- **IELTS** 6.5 | **SAT** 1100
 - **Google** - Foundations of UX Design Certificate
-- **IT Hackathon 2024 - Solana Consumer Hack 16**
-- **Certificate of Appreciation**
+- **IT Hackathon 2024 - Solana Consumer Hack 16** - Certificate of Appreciation
 
 </br>
 
