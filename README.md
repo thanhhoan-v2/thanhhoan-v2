@@ -118,31 +118,4 @@ _Oct 2023 – Jan 2024_
 
 </br>
 
-<div align="center">
-  <h3>Development Environment & Tools</h3>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim badge" />
-  <img src="https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=whitee" alt="NixOS badge" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="MacOS badge" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel badge" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge" />
-  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook badge" />
-</div>
-
-</br>
-
-<div align="center">
-  <h3>Competitive Programming</h3>
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode badge" />
-  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef badge" />
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces badge" />
-</div>
-
-</br>
-
 <img src="./assets/bottom.svg" alt="Bottom SVG"/>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#16](https://github.com/thanhhoann/mobile_app_project/pull/16) in [thanhhoann/mobile_app_project](https://github.com/thanhhoann/mobile_app_project)
-<!--END_SECTION:activity-->
